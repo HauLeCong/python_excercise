@@ -1,6 +1,6 @@
 # TODO App excercise
 
-Copy from: https://realpython.com/python-typer-cli/  
+From: https://realpython.com/python-typer-cli/  
 
 Subject covers:
 - MVC 
